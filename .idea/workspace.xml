@@ -27,6 +27,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
@@ -43,6 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -54,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610787327318</updated>
-      <workItem from="1610787329197" duration="1837000" />
+      <workItem from="1610787329197" duration="3552000" />
     </task>
     <servers />
   </component>
@@ -74,5 +82,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="665" y="418" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611088548083">
+      <screen x="0" y="25" width="1920" height="1175" />
+    </state>
+    <state x="665" y="418" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1920.1175@0.25.1920.1175" timestamp="1611088548083" />
   </component>
 </project>
