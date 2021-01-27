@@ -2,6 +2,6 @@
 
 @section('content')
 <div class="container">
-    <h1>Hello</h1>
+    <h1>Welcome back, {{ Auth::user()->name }}!</h1>
 </div>
 @endsection
