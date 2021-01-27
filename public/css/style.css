@@ -1,3 +1,12 @@
 #body-content {
-    background-color: rgb(6, 214, 160);
+    background-color: rgb(255, 252, 249);
+}
+#body-header {
+    background-color: rgb(38, 84, 124);
+    width: 100%;
+}
+#body-header-home {
+    text-decoration: none;
+    color: rgb(255, 252, 249);
+    font-size: 1.4rem;
 }
