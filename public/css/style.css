@@ -4,9 +4,12 @@
 #body-header {
     background-color: rgb(38, 84, 124);
     width: 100%;
+    display: flex;
+    justify-content: flex-end;
 }
-#body-header-home {
+#body-header-home, #body-header-login, #body-header-register {
     text-decoration: none;
     color: rgb(255, 252, 249);
     font-size: 1.4rem;
 }
+
