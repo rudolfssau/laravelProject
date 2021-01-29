@@ -1,3 +1,6 @@
+* {
+    font-family: sans-serif;
+}
 #body-content {
     background-color: rgb(255, 252, 249);
 }
@@ -12,4 +15,8 @@
     color: rgb(255, 252, 249);
     font-size: 1.4rem;
 }
-
+#app.blade.php-navbar-container {
+    padding: 20px;
+    margin-top: -23px;
+    width: 100%;
+}
