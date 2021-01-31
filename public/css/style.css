@@ -4,7 +4,7 @@
 #body-content {
     background-color: rgb(42, 157, 142);
 }
-#body-header {
+#body-header, #app.blade.php-body-header {
     background-color: rgb(38, 70, 83);
     width: 100%;
     display: flex;
@@ -17,7 +17,7 @@
     padding-right: 20px;
     color: rgb(233, 196, 106);
 }
-#body-header-text {
+#body-header-text, app.blade.php-body-header-text {
     padding-left: 20px;
     font-size: 1.125rem;
 }
@@ -27,7 +27,7 @@
     color: rgb(233, 196, 106);
     font-weight: bolder;
 }
-#app.blade.php-navbar-container {
+#app.blade.php-body-header {
     padding: 20px;
     margin-top: -23px;
     width: 100%;

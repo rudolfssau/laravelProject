@@ -22,7 +22,7 @@
     <list default="true" id="20ce5302-16e3-42e7-b2be-1c00d672eaad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Website_Learning/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Website_Learning/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610787327318</updated>
       <workItem from="1610787329197" duration="5321000" />
-      <workItem from="1611349901461" duration="5905000" />
+      <workItem from="1611349901461" duration="7006000" />
     </task>
     <servers />
   </component>
