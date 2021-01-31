@@ -2,18 +2,30 @@
     font-family: sans-serif;
 }
 #body-content {
-    background-color: rgb(255, 252, 249);
+    background-color: rgb(42, 157, 142);
 }
 #body-header {
-    background-color: rgb(38, 84, 124);
+    background-color: rgb(38, 70, 83);
     width: 100%;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    padding-right: 20px;
+    color: rgb(233, 196, 106);
+}
+#body-header-text {
+    padding-left: 20px;
+    font-size: 1.125rem;
 }
 #body-header-home, #body-header-login, #body-header-register {
     text-decoration: none;
-    color: rgb(255, 252, 249);
-    font-size: 1.4rem;
+    font-size: 1.125rem;
+    color: rgb(233, 196, 106);
+    font-weight: bolder;
 }
 #app.blade.php-navbar-container {
     padding: 20px;
