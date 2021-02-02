@@ -8,24 +8,41 @@
   <link rel="stylesheet" href="{{ asset('css/style.css') }}">
   <title>Online Assigments</title>
 </head>
-<body>
-    <header>
-        <nav>
-            <ul id="main-nav-ul">
+<body id="main-body">
+    <header id="main-header">
+        <nav id="main-nav-container">
+            <ul id="main-nav-ul-left">
                 <li>
-                    <a href="home">Home</a>
+                    <a id="home" href="home">Home</a>
                 </li>
                 <li>
-                    <a href="classroom">Classroom</a>
+                    <a id="classroom" href="classroom">Classroom</a>
                 </li>
                 <li>
-                    <a href="assignments">Assignments</a>
+                    <a id="assignments" href="assignments">Assignments</a>
                 </li>
                 <li>
-                    <a href="mail">OS-Mail</a>
+                    <a id="mail" href="mail">Mail</a>
                 </li>
                 <li>
-                    <a href="lessons">Lessons</a>
+                    <a id="lessons" href="lessons">Lessons</a>
+                </li>
+            </ul>
+            <ul id="main-nav-ul-right">
+                <li>
+                    <a id="contacts" href="contacts">Contacts</a>
+                </li>
+                <li>
+                    <a id="myaccount" href="myaccount">My Account</a>
+                </li>
+                <li>
+                    <a id="login" href="login">Login</a>
+                </li>
+                <li>
+                    <a id="register" href="register">Register</a>
+                </li>
+                <li>
+                    <a id="logout" href="logout">Logout</a>
                 </li>
             </ul>
         </nav>
