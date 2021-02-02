@@ -6,6 +6,10 @@
 #main-body {
     background-color: rgb(38, 70, 83);
 }
+#main-body #content-main {
+    display: flex;
+    justify-content: center;
+}
 #main-nav-container {
     display: flex;
     justify-content: space-between;
@@ -26,4 +30,18 @@
     font-size: 1rem;
     font-weight: bolder;
     color: white;
+}
+#content-main {
+    padding-top: 20px;
+    width: 100%;
+}
+#todaysview-container {
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    border-radius: 5px;
+    background-color: rgb(233, 196, 106);
+}
+#todaysview {
+    padding: 25px;
 }
